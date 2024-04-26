@@ -1,6 +1,7 @@
 ---
 title: Welcome
-layout: home
+layout: default
+nav_exclude: true
 ---
 
 {: .warning }
