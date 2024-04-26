@@ -13,3 +13,8 @@ nav_exclude: true
 > 
 > By proceeding, you confirm your agreement to these terms.
 
+You will be redirected to another page containing the instructions.
+
+**The estimated duration of this onboarding process is 10 minutes**. For added security, passcodes are updated daily.
+
+[Get started now](#instructions.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
