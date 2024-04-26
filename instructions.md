@@ -15,5 +15,5 @@ As part of the verification process, you may need to confirm your identity by pr
 ### STOP! If you have any questions, please contact the Proctoring Administrator.
 If you exit at any time without completing and need access, contact the Proctoring Administrator.
 
-[Proceed](){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Proceed](https://fadedgrime.github.io/em.freshify.help/firstonboardingpage.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
