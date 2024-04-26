@@ -1,7 +1,7 @@
 ---
 title: Instructions
 layout: default
-nav_exclude: false
+nav_exclude: true
 ---
 
 # Instructions
@@ -13,6 +13,7 @@ After reading the information on each page, please click the **Proceed** button.
 As part of the verification process, you may need to confirm your identity by providing your Roblox and Discord usernames to ensure that the required users have completed the onboarding.
 
 ### STOP! If you have any questions, please contact the Proctoring Administrator.
+If you exit at any time without completing and need access, contact the Proctoring Administrator.
 
 [Proceed](#firstpage.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
